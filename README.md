@@ -1,6 +1,6 @@
 # QuorumDB
 
-QuorumDB is a final-year CSE friendly distributed key-value store written in Go. It demonstrates the main ideas behind Dynamo-style systems: consistent hashing, replication, quorum reads/writes, and gossip-based membership/failure detection.
+QuorumDB is a distributed key-value store written in Go. It demonstrates the main ideas behind Dynamo-style systems: consistent hashing, replication, quorum reads/writes, and gossip-based membership/failure detection.
 
 ## Features
 
